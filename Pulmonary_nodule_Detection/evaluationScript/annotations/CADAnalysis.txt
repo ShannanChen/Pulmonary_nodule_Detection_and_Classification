@@ -1,0 +1,16 @@
+
+************************************************************
+CAD Analysis: 3DRes18FasterR-CNN
+************************************************************
+
+Candidate detection results:
+    True positives: 1122
+    False positives: 48422
+    False negatives: 64
+    True negatives: 0
+    Total number of candidates: 54347
+    Total number of nodules: 1186
+    Ignored candidates on excluded nodules: 4638
+    Ignored candidates which were double detections on a nodule: 165
+    Sensitivity: 0.946037099
+    Average number of candidates per scan: 61.201576577
